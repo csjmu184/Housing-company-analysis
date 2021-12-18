@@ -4,4 +4,3 @@
 ### Problem Statement- 
 - Which variables are significant in predicting the price of a house?
 - How well those variables describe the price of a house?
-- Determine the optimal value of lambda for ridge and lasso regression.
