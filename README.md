@@ -4,3 +4,7 @@
 ### Problem Statement- 
 - Which variables are significant in predicting the price of a house?
 - How well those variables describe the price of a house?
+
+
+
+# This model is used to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
